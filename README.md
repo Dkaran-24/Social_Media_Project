@@ -15,7 +15,9 @@ Instagram, Facebook, Twitter/X, YouTube, and Snapchat.
 - Excel / CSV Dataset
 
 ## Preview
-(Add dashboard screenshots here)
+<img width="1062" height="621" alt="image" src="https://github.com/user-attachments/assets/1d57b0bb-8c7f-4501-bef1-13636f0ba85a" />
+
+
 
 ## Author
 Karan Devalla
